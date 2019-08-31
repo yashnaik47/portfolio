@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6b93a70d.chunk.css",
+    "main.js": "/portfolio/static/js/main.be5286dc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.be5286dc.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f7d4dbe8.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f7d4dbe8.js.map",
+    "static/js/2.157b6e3b.chunk.js": "/portfolio/static/js/2.157b6e3b.chunk.js",
+    "static/js/2.157b6e3b.chunk.js.map": "/portfolio/static/js/2.157b6e3b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f87972074f9ed4682976a6f1b37bfb79.js": "/portfolio/precache-manifest.f87972074f9ed4682976a6f1b37bfb79.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6b93a70d.chunk.css.map": "/portfolio/static/css/main.6b93a70d.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/portfolio/static/media/email_icon.fd99f8e3.png",
+    "static/media/github_icon.png": "/portfolio/static/media/github_icon.e2a62886.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.76a46530.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.bf56edc6.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.f7e79c7d.png",
+    "static/media/project3.png": "/portfolio/static/media/project3.7bded960.png"
+  }
+}
